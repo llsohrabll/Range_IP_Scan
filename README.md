@@ -26,10 +26,10 @@ Usage:
    python3 scanner.py
 
 4. Enter a valid CIDR range when prompted, for example:
-
+   '''bash
    Enter CIDR range (e.g., 192.168.1.0/24): 192.168.1.0/24
 
-5. The script will scan the network and display results in the terminal while saving them to "output.txt".
+6. The script will scan the network and display results in the terminal while saving them to "output.txt".
 
 Output Example:
 ---------------
